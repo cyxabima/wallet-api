@@ -30,7 +30,7 @@ Authentication is handled via **Clerk**, and the API is designed for integration
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/wallet-api.git
+git clone https://github.com/cyxabima/wallet-api
 cd wallet-api
 ````
 
